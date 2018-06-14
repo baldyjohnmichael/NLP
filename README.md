@@ -13,8 +13,8 @@ This project uses Python 3 and NLTK .
  Takes an English sentence as a string and returns True if the sentence uses the passive voice and False if not.
 
  ***Current Problems being fixed***
- * If an adverb is used between the conjugated form of _to be_ and the past participle of the main verb, then the program does not recognize the passive voice.
- * Does not recognize irregular past participles 
+ * If an irregular adverb is used between the conjugated form of _to be_ and the past participle of the main verb, then the program does not recognize the passive voice.
+ * Does not recognize irregular past participles
 
 #### About the Formation of English Passive Voice (EPV)
 EPV = form of verb _to be_  + past participle of the main verb denoting the action.
